@@ -127,6 +127,9 @@ body {
     font-weight: 700;
     line-height: normal;
 }
+.section4__container {
+    margin-top: 80px;
+}
 .goods {
     gap: 30px;
 }
@@ -238,4 +241,21 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+.section4__container3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.section4__imgbox {
+    display: flex;
+    flex-direction: row;
+}
+.section4__img-wrapper {
+    padding: 60px 35px;
+    background: #FFF;
+    border-right: 1px solid #EFEFEF;
+    border-bottom: 1px solid #EFEFEF;
 }
