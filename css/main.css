@@ -260,7 +260,7 @@ body {
     border-right: 1px solid #EFEFEF;
     border-bottom: 1px solid #EFEFEF;
 }
-.footer {
+.footer__wraper {
     padding: 60px 405px;
 }
 .footer__title-box {
