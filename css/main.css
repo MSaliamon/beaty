@@ -271,9 +271,11 @@ body {
 .section4__imgbox {
     display: flex;
     flex-wrap: wrap;
+    max-width: 1000px;
+    justify-content: center;
 }
 .section4__img-wrapper {
-    padding: 60px 35px;
+    padding: 50px 35px;
     background: #FFF;
     border-right: 1px solid #EFEFEF;
     border-bottom: 1px solid #EFEFEF;
